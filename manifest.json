@@ -5,7 +5,10 @@
   "version": "1.0",
   "content_scripts": [
     {
-      "js": ["scripts/content.js"]
+      "js": ["scripts/content.js"],
+      "matches": [
+        "https://*"
+      ]
     }
   ]
 }
