@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "name": "Hidden School Cheats",
   "description": "A fun Liltle video Game",
+  "version": "1.0",
   "content_scripts": [
     {
       "js": ["scripts/content.js"]
