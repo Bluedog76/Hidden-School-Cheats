@@ -3,6 +3,13 @@
   "name": "Hidden School Cheats",
   "description": "A fun Liltle video Game",
   "version": "0.2",
+  "permissions": [
+    "tabGroups",
+    "tabs"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
   "content_scripts": [
     {
       "js": ["scripts/content.js"],
