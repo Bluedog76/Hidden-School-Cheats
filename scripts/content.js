@@ -1,1 +1,1 @@
-alert('javascript test');
+//Something
