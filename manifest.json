@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Hidden School Cheats",
-  "description": "A fun Liltle video Game",
+  "name": "Switches",
+  "description": "Goof Aw Switches",
   "version": "0.2",
   "permissions": [
     "tabGroups",
