@@ -5,4 +5,3 @@ function checkAddress(checkbox)
         alert("a");
     }
 }
-
