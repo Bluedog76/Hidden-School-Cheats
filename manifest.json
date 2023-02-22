@@ -9,10 +9,7 @@
     "storage"
   ],
   "action": {
-    "default_popup": [
-      "scripts/popup.html",
-      "scripts/popup.js"
-    ]
+    "default_popup": "scripts/popup.html"
   },
   "content_scripts": [
     {
