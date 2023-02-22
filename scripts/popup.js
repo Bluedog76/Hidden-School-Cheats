@@ -1,6 +1,6 @@
 function checkAddress(checkbox)
 {
-    if (checkbox.checked)
+    if (checkbox.target.checked)
     {
         alert("a");
     }
