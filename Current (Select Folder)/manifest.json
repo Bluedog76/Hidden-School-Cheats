@@ -5,6 +5,18 @@
     "description": "set up for ChromeWebstore if Published",
     "icons": {
         "128": "/Images/128.png"
-    }
-    
+    },
+    "action": {
+        "default_popup": "popup/popup.html"
+    },
+    "permissions": [
+        "storage"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["*://*/*"],
+            "js": ["Scripts/contentscript.js"]
+        }
+    ]
+
 }
