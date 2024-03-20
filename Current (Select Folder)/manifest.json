@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "HSC",
+    "version": 123,
+    "description": "set up for ChromeWebstore if Published",
+    "icons": {
+        "128": "/Images/128.png"
+    }
+    
+}
